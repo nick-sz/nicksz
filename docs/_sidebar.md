@@ -1,4 +1,0 @@
-- [Home](/)
-
-* [Guide](TrainingCard.md)
-
