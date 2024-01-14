@@ -1,2 +1,2 @@
-- [Home](/)
-- [Guide](trainingcard.md)
+[Home](/)
+[Guide](trainingcard.md)
