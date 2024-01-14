@@ -1,1 +1,2 @@
-
+- [Home](/)
+- [Guide](trainingcard.md)
